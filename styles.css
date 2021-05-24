@@ -1,0 +1,28 @@
+.name {
+    display: flex;
+    justify-content: center;
+    border: 10px double #660066;
+}
+
+.parent {
+    display: flex;
+    background-color: #ffd480;
+    justify-content: space-between;
+}
+
+.pics {}
+
+.favquote {}
+
+.topsongs {}
+
+.border {
+    border: 10px double #660066;
+    width: 150px;
+
+}
+
+img {
+    width: 150px;
+
+}
